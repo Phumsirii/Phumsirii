@@ -3,7 +3,8 @@
 </h1>
 
 <p>💻 Computer Engineering Student @ Chulalongkorn University</p>
-<p>👨🏻‍💻 Rookie LeetCoder</p>
+
+👨🏻‍💻 Rookie [LeetCoder](https://github.com/Phumsirii/Daily-LeetCode-Problems)
   
 ![Phumsirii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phumsirii&show_icons=true&theme=radical&include_all_commits=true)
 
