@@ -13,6 +13,14 @@
     My Skills
   </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python,scala,java,mongodb,postman" />
+    <div>
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html"/>
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=next,react"/>
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman"/>
+    </div>
   </a>
 </p>
