@@ -16,15 +16,22 @@
   <h1>
     My Skills
   </h1>
-  <a href="https://skillicons.dev">
-    <div>
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html"/>
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=next,react"/>
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman"/>
-    </div>
-  </a>
+  <h3>
+    Languages
+  </h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts"/>
+  </div>
+  <h3>
+    Libraries and Frameworks
+  </h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=express,redux,pytorch,next,react"/>
+  </div>
+  <h3>
+    Tools
+  </h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=discord,notion,idea,github,vscode,npm,nodejs,mongodb,postman,aws,mysql,vercel,postgres"/>
+  </div>
 </p>
