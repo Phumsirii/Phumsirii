@@ -6,7 +6,7 @@
 
 👨🏻‍💻 Rookie [LeetCoder](https://github.com/Phumsirii/Daily-LeetCode-Problems)
   
-![Phumsirii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phumsirii&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Phumsirii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phumsirii&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Phumsiri)
 
