@@ -32,6 +32,6 @@
     Tools
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=discord,notion,idea,github,vscode,npm,nodejs,mongodb,postman,aws,mysql,vercel,postgres"/>
+    <img src="https://skillicons.dev/icons?i=discord,notion,github,vscode,npm,nodejs,mongodb,postman,aws,vercel"/>
   </div>
 </p>
