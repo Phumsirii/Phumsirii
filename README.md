@@ -20,18 +20,18 @@
     Languages
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts,mysql"/>
   </div>
   <h3>
     Libraries and Frameworks
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=express,redux,pytorch,next,react"/>
+    <img src="https://skillicons.dev/icons?i=express,redux,pytorch,next,react,tailwind"/>
   </div>
   <h3>
     Tools
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=discord,notion,github,vscode,npm,nodejs,mongodb,postman,aws,vercel,docker,postgres"/>
+    <img src="https://skillicons.dev/icons?i=discord,notion,github,vscode,npm,nodejs,mongodb,postman,aws,vercel,docker,postgres,figma"/>
   </div>
 </p>
