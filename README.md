@@ -20,7 +20,7 @@
     Languages
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts,mysql"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts"/>
   </div>
   <h3>
     Libraries and Frameworks
@@ -32,6 +32,6 @@
     Tools
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=discord,notion,github,vscode,npm,nodejs,mongodb,postman,aws,vercel,docker,postgres,figma"/>
+    <img src="https://skillicons.dev/icons?i=discord,notion,github,vscode,npm,nodejs,mongodb,postman,aws,vercel,docker,postgres,figma,mysql"/>
   </div>
 </p>
