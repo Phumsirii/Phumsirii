@@ -20,7 +20,7 @@
     Languages
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,scala,js,css,html,ts,go"/>
   </div>
   <h3>
     Libraries and Frameworks
