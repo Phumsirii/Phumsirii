@@ -33,6 +33,5 @@
   </h3>
   <div>
     <img src="https://skillicons.dev/icons?i=discord,notion,github,vscode,npm,nodejs,mongodb,postman,aws,vercel,docker,postgres,figma,mysql"/>
-    <img height=50 src='https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png' />
   </div>
 </p>
